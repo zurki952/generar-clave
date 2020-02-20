@@ -1,0 +1,19 @@
+{
+    "name": "zurki952/generar-clave",
+    "description": "Esta libreria permite generar claves aleatorias seguras, combinadas: alfa/numericas/simbolos y configurables",
+    "type": "library",
+    "keywords": ["claves", "generador", "password"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zurki952",
+            "email": "zumargon@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"generarclave\\": "src/"}
+    },
+    "require": {}
+}
